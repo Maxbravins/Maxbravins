@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartment</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/apartment.css">
+    <style>
+        .mansion_images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Each image card */
+.image_container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+.image_container:hover {
+    transform: scale(1.02);
+}
+
+.image_container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Overlay text */
+.text_overlay {
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+}
+
+.text_overlay h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.text_overlay p {
+    font-size: 0.95rem;
+}
+
+.text_overlay price {
+    display: block;
+    margin-top: 8px;
+    font-weight: bold;
+    font-size: 0.95rem;
+}
+
+/* Button styling */
+.text_overlay button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    background-color: #0056b3;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.text_overlay button:hover {
+    background-color: #007bff;
+}
+    </style>
+</head>
+<body>
+    <h1>Apartment for Sale</h1>
+    <div class="mansion_images">
+    <div class="image_container">
+        <img src="Image/Apartment.1.jpg" alt="mansion">
+        <div class="text_overlay">
+            <h2>For Sale</h2>
+            <p>2 and 3 bedroom apartment</p>
+            <price>From 8 million</price>
+        </div>
+    </div>
+    <div class="image_container">
+        <img src="Image/Apartment.2.jpg" alt="mansion">
+        <div class="text_overlay">
+            <h2>Accessibility</h2>
+            <p>1.5km to the JKIA</p>
+           
+        </div>
+    </div>
+
+
+<div class="mansion_images">
+    <div class="image_container">
+        <img src="Image/Apartment.3.jpg" alt="mansion">
+        <div class="text_overlay">
+            <h2>Play ground</h2>
+            <p>Good for family with kids</p> 
+            <button>Syokimau</button>
+        </div>
+    </div>
+    <div class="image_container">
+        <img src="Image/Apartment.4.jpg" alt="mansion">
+        <div class="text_overlay">
+            <h2>Resting Area</h2>
+            <p>Swimming pool available</p>
+        </div>
+    </div>
+
+</body>
+</html>
