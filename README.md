@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi there, I'm Maxbravins!
 
 Welcome to my GitHub profile! I'm a passionate and motivated learner currently exploring the world of web development and software design.
