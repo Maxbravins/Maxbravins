@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maxbravins!
+# 👋 Hi there, I'm Micaiah!
 
 Welcome to my GitHub profile! I'm a passionate and motivated learner currently exploring the world of web development and software design.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and motivated learner currently e
 - 🚀 I love building real-world projects to improve my skills
 - 📚 I'm eager to grow as a developer and learn new technologies
 
-## 📌 Featured Project: Sunpark Residency
+ Featured Project: Sunpark Residency
 
 **Sunpark Residency** is a real estate-themed website built using:
 
@@ -20,13 +20,13 @@ Welcome to my GitHub profile! I'm a passionate and motivated learner currently e
 
 🔗 [http://localhost/First%20website%20project/](#) *(Add a real link when available)*
 
-## 🛠️ Skills
+## Skills
 
 - **Frontend**: HTML5, CSS3, (basic JavaScript)
 - **Backend**: PHP, MySQL
 - **Other Tools**: phpMyAdmin, XAMPP, VS Code
 
-## 🔭 Goals
+## Goals
 
 - Continue learning and practicing **JavaScript** and **Python**
 - Learn how to use **frameworks** and **version control** more effectively
@@ -34,10 +34,10 @@ Welcome to my GitHub profile! I'm a passionate and motivated learner currently e
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: [your-maxbravinso@gmail.com]
+- 📧 Email: [maxbravinso@gmail.com]
 - 🌐 Portfolio: [ https://maxbravins.github.io/Micaiah-wanyama/
 ]
-- 💬 Feel free to check out my repositories and give feedback!
+-  Feel free to check out my repositories and give feedback!
 
 ---
 
