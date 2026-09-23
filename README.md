@@ -1,12 +1,11 @@
-Micaiah Wanyama
-
+**Micaiah Wanyama**
 Fullstack Developer
 
 I build web and mobile applications end to end, from user interfaces to APIs and databases. I work across the JavaScript and PHP ecosystems and enjoy turning real-world requirements into working products.
 
-Portfolio | Email
+**Portfolio | Email**
 
-Technical Skills
+**Technical Skills**
 Area	Technologies
 Languages	JavaScript, PHP, Dart, HTML5, CSS3
 Frontend	React, Vue.js
