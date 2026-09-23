@@ -1,46 +1,34 @@
-# 👋 Hi there, I'm Micaiah!
+Micaiah Wanyama
 
-Welcome to my GitHub profile! I'm a passionate and motivated learner currently exploring the world of web development and software design.
+Fullstack Developer
 
-## 🌱 About Me
+I build web and mobile applications end to end, from user interfaces to APIs and databases. I work across the JavaScript and PHP ecosystems and enjoy turning real-world requirements into working products.
 
-- 💻 I'm learning **HTML**, **CSS**, **PHP**, and **MySQL**
-- 🐍 I have beginner-level experience with **Python** and **JavaScript**
-- 🚀 I love building real-world projects to improve my skills
-- 📚 I'm eager to grow as a developer and learn new technologies
+Portfolio | Email
 
- Featured Project: Sunpark Residency
+Technical Skills
+Area	Technologies
+Languages	JavaScript, PHP, Dart, HTML5, CSS3
+Frontend	React, Vue.js
+Backend	Node.js, Laravel
+Mobile	Flutter
+Databases	MySQL, MongoDB
+Tools	Git, GitHub, VS Code, XAMPP, phpMyAdmin
+Featured Project
+Sunpark Residency
 
-**Sunpark Residency** is a real estate-themed website built using:
+A real estate website with a database-backed contact system and an admin panel for managing enquiries.
 
-- ✅ HTML & CSS for frontend design
-- ✅ PHP for server-side logic
-- ✅ MySQL for database storage
-- ✅ Admin panel to manage contact form submissions
+Responsive frontend built with HTML and CSS
+Server-side logic written in PHP
+MySQL database for storing contact form submissions
+Admin panel for viewing and managing submissions
+Focus Areas
+Building complete, real-world applications from database to interface
+Developing interactive and dynamic web applications
+Writing clean, maintainable code with effective use of frameworks and version control
+Contact
+Email: maxbravinso@gmail.com
+Portfolio: maxbravins.github.io/Micaiah-wanyama
 
-🔗 [http://localhost/First%20website%20project/](#) *(Add a real link when available)*
-
-## Skills
-
-- **Frontend**: HTML5, CSS3, (basic JavaScript)
-- **Backend**: PHP, MySQL
-- **Other Tools**: phpMyAdmin, XAMPP, VS Code
-
-## Goals
-
-- Continue learning and practicing **JavaScript** and **Python**
-- Learn how to use **frameworks** and **version control** more effectively
-- Build more **interactive** and **dynamic** web applications
-
-## 🤝 Let’s Connect
-
-- 📧 Email: [maxbravinso@gmail.com]
-- 🌐 Portfolio: [ https://maxbravins.github.io/Micaiah-wanyama/
-]
--  Feel free to check out my repositories and give feedback!
-
----
-
-_Thanks for visiting my profile!_ 😄
-
--->
+I welcome feedback on my repositories and am open to collaboration.
